@@ -1,17 +1,16 @@
 README: CLIENT SCHEDULER
 
 Application Name: 	Client Scheduler
-Version: 		    0.1
-Class:			    C195 Software II
-Author: 		    Joshua Hillary
-Date: 			    10-21-2022
-Email: 			    jhilla9@wgu.edu
+Version: 		        0.1
+Author: 		        Joshua Hillary
+Date: 			        10-21-2022
+Email: 			        j.andrew.hillary@gmail.com
 
 
-IDE: 			    IntelliJ IDEA 2022.1.3
+IDE: 			        IntelliJ IDEA 2022.1.3
 Java Version: 		18.0.1
-JavaFX SDK: 		18
-JDBC Driver: 		mysql-connector-java-8.0.22
+JavaFX SDK: 		  18
+JDBC Driver: 		  mysql-connector-java-8.0.22
 
 PURPOSE
 The purpose of the Client Scheduler is to perform appointment scheduling by creating, updating, and deleting Appointment and Customer records from a local MySQL database in a simple graphical user interface. It also includes a login page that verifies users based on the stored user records in the database.  There is also a reports page that displays appointments for each contact, as well as total appointments by month and type, and total customers by state.  
