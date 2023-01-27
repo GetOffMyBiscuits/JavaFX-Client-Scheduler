@@ -1,0 +1,905 @@
+
+
+2022-10-21T02:59:08.0493786-04:00[America/New_York]
+USER: 'aef' attempted a login
+Login successful: false
+
+2022-10-21T02:59:12.1020349-04:00[America/New_York]
+USER: 'qwqer' attempted a login
+Login successful: false
+
+2022-10-21T02:59:15.7180202-04:00[America/New_York]
+USER: '' attempted a login
+Login successful: false
+
+2022-10-21T02:59:19.8097118-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:15:56.1499791-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:16:46.0700743-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:20:41.2495948-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:27:46.6921382-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:29:21.0193803-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:30:47.8726108-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:32:35.4038683-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:34:30.0494409-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:36:14.7586715-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:39:06.0554803-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T03:42:43.6733367-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T05:02:54.6150265-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T05:03:59.1112274-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T05:47:50.4435764-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T05:49:54.9211216-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T05:50:46.6462039-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T09:55:35.0239558Z[Etc/UTC]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T10:01:19.9399008Z[Etc/UTC]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:13:05.7807345-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:17:28.0657589-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:22:03.0570069-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:37:13.8665304-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:49:41.8077627-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:50:12.2961191-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:52:55.7278694-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:56:25.9116171-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:57:17.117259-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:58:17.1338132-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:59:18.4099022-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T19:59:43.9328057-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:01:13.4293255-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:01:34.1208634-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:04:12.9850251-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:08:01.2364455-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T03:11:41.118312+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T03:43:56.6601592+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:44:55.6940523-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T03:46:21.5809741+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T03:52:21.8965825+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T03:52:55.878352+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:53:38.7874747-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:54:06.0659278-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T03:55:21.0120762+03:00[Europe/Moscow]
+USER: 'start' attempted a login
+Login successful: false
+
+2022-10-22T03:55:25.2227778+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T03:57:57.3318994+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T20:58:48.4842642-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T21:13:58.0951698-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:14:32.3533673+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:16:11.9976132+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:20:25.3081908+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:22:58.9750738+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:24:06.0116408+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:25:14.219554+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:26:31.1208182+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:33:12.231916+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:40:27.8922103+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T04:42:06.6797707+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T21:43:27.0746037-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T21:47:39.0053685-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T21:49:32.8534322-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T21:51:27.9487434-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T21:54:09.375951-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:00:30.139424-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:04:44.7005181-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:05:11.3318631-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:05:40.5906858-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:06:52.4188951-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:09:00.9632774-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:09:51.4373009-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:12:24.2162966-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:13:19.887007-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:14:17.0838854+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:15:46.6456619+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:17:51.3667061+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:19:45.3482022+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:20:05.5008263+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:20:23.483723+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:22:08.0742609+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:29:27.8657355+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:32:14.4625253-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:34:54.9906505+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:36:53.5783481+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:38:51.9257367+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:52:40.326552+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T22:54:44.8067489-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-21T23:02:59.6819261-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:04:08.2283179+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:42:08.6819692+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:47:11.4265079+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:55:31.2607339+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:57:21.8698725+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T07:01:17.9321782+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T07:09:29.0038101+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T07:30:25.1352714+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T07:50:46.7769726+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T07:57:48.5753863+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T07:58:54.9404922+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T08:01:46.3967164+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T08:45:42.5369753+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:18:27.0538885+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:21:34.7819779+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:27:36.0194299+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:29:37.6274512+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:30:19.458617+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:38:19.3704033+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:44:55.713321+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:54:48.2365651+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T09:57:27.8624397+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T10:10:31.2496256+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T10:12:21.8446918+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T10:18:52.6716709+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T10:26:58.2801611+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T10:28:15.3765275+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:12:17.1414075+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:14:12.8107052+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:15:39.1479109+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:18:29.2168072+03:00[Europe/Moscow]
+USER: 'start' attempted a login
+Login successful: false
+
+2022-10-22T11:18:34.2861543+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:19:05.247093+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:20:43.8482147+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:22:21.3276623+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:24:06.2571206+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:25:44.4885143+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:32:27.794374+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:35:31.4489879+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:39:45.7407292+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:42:57.8851699+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:43:25.7152055+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T11:44:46.5539232+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T12:14:53.3661252+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T12:16:56.7959924+03:00[Europe/Moscow]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:18:01.6025837-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:21:54.1904436-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:23:31.6821516-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:31:21.6718717-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:47:31.6628745-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:50:40.5728016-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T05:57:51.435878-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:01:26.7978322-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:02:46.3942553-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:12:57.2775885-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:19:00.4379577-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:21:13.9994135-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T06:48:30.6379336-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T16:03:50.3851027-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T16:17:12.2200555-04:00[America/New_York]
+USER: '' attempted a login
+Login successful: false
+
+2022-10-22T16:24:22.9784924-04:00[America/New_York]
+USER: '' attempted a login
+Login successful: false
+
+2022-10-22T16:39:23.8656545-04:00[America/New_York]
+USER: '' attempted a login
+Login successful: false
+
+2022-10-22T21:03:04.7319457-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T21:24:25.6145581-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T21:24:36.0932228-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T21:25:56.992235-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T21:46:14.0252875-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T21:46:43.2747134-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T22:06:58.9017205-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T22:12:36.7789656-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-22T22:12:45.4420888-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T13:51:35.1471856-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:21:28.8839871-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:23:38.636495-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:27:52.2834647-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:30:01.0154371-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:31:09.9325887-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:43:59.7282113-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:49:07.3659479-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:55:51.7895514-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:57:10.6413473-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T16:59:17.8504139-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T17:01:31.8215991-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T17:03:15.0111092-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-23T18:07:42.0369622-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T09:39:21.8682317-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T09:46:06.1649714-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T09:47:24.3068705-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T10:21:12.4593489-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T10:23:50.9717767-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T10:38:11.9070599-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T10:39:46.5763047-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T10:42:36.7202711-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T10:46:55.2804491-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T10:49:01.3275592-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T11:04:42.7438679-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T11:06:01.1879813-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T11:08:47.6333176-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T11:28:38.4871936-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T12:41:04.7072366-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T12:41:24.2189613-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T12:41:55.3931003-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T12:43:47.4826482-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T12:48:30.4617-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T12:53:07.7576247-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T12:55:25.773152-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T13:03:13.1251033-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T13:03:25.2862866-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T13:06:00.9349512-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-24T13:12:26.3174516-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T01:59:04.0760545-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:04:38.477783-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:07:13.3563316-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:08:15.4495639-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:20:50.5458341-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:22:59.6048715-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:23:40.6000533-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:25:50.040134-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:31:57.646229-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T02:55:25.5555261-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:16:13.1522066-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:17:36.5224372-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:18:11.2346376-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:19:53.7812421-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:28:56.1881663-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:30:38.2019723-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:31:47.0246348-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:32:52.8211318-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:33:33.1492083-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:35:57.8135761-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:44:42.3841906-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:46:49.3642321-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:47:34.5232278-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T03:48:20.9025368-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T04:02:37.682817-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true
+
+2022-10-26T04:06:03.1379062-04:00[America/New_York]
+USER: 'test' attempted a login
+Login successful: true

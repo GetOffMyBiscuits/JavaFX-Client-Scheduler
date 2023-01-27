@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="503.0" prefWidth="385.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.AppointmentsController">
+    <children>
+        <Label fx:id="updateLabel" layoutX="27.0" layoutY="27.0" text="Add Appointment">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <VBox layoutX="55.0" layoutY="70.0" prefHeight="359.0" prefWidth="114.0" spacing="11.67">
+            <children>
+                <Label text="ID" />
+                <Label text="Title" />
+                <Label text="Type" />
+                <Label text="Description" />
+                <Label text="Location" />
+                <Label text="Start Date" />
+                <Label text="Start Time" />
+                <Label text="End Date" />
+                <Label text="End Time" />
+                <Label text="Customer ID" />
+                <Label text="User ID" />
+                <Label text="Contact" />
+            </children>
+        </VBox>
+        <VBox layoutX="163.0" layoutY="69.0" prefHeight="359.0" prefWidth="187.0" spacing="3.0">
+            <children>
+                <TextField fx:id="appID" disable="true" promptText="Auto Generated ID" />
+                <TextField fx:id="title" />
+                <TextField fx:id="type" />
+                <TextField fx:id="description" />
+                <TextField fx:id="loc" />
+                <DatePicker fx:id="startDate" prefHeight="25.0" prefWidth="201.0" />
+            <AnchorPane prefHeight="0.0" prefWidth="187.0">
+               <children>
+                  <ComboBox fx:id="startTime" layoutY="1.0" prefHeight="25.0" prefWidth="89.0" promptText="Hours" />
+                  <ComboBox fx:id="startTimeMinutes" layoutX="106.0" layoutY="1.0" prefHeight="25.0" prefWidth="89.0" promptText="Minutes" />
+               </children>
+            </AnchorPane>
+                <DatePicker fx:id="endDate" prefHeight="25.0" prefWidth="210.0" />
+            <AnchorPane prefHeight="0.0" prefWidth="187.0">
+               <children>
+                      <ComboBox fx:id="endTime" layoutY="2.0" prefHeight="25.0" prefWidth="89.0" promptText="Hours" />
+                  <ComboBox fx:id="endTimeMinutes" layoutX="106.0" layoutY="2.0" prefHeight="25.0" prefWidth="89.0" promptText="Minutes" />
+               </children>
+            </AnchorPane>
+                <ComboBox fx:id="customerID" prefHeight="25.0" prefWidth="256.0" />
+                <ComboBox fx:id="userID" prefHeight="25.0" prefWidth="215.0" />
+                <ComboBox fx:id="contact" prefHeight="25.0" prefWidth="211.0" />
+            </children>
+        </VBox>
+        <Button layoutX="182.0" layoutY="429.0" mnemonicParsing="false" onAction="#onSave" prefHeight="25.0" prefWidth="75.0" text="Save" />
+        <Button fx:id="cancel" layoutX="274.0" layoutY="429.0" mnemonicParsing="false" onAction="#cancelButton" prefHeight="25.0" prefWidth="75.0" text="Cancel" />
+    </children>
+</AnchorPane>

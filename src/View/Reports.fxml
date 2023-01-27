@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="507.0" prefWidth="677.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.ReportController">
+   <children>
+      <Label layoutX="40.0" layoutY="24.0" text="Reports">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <TableView fx:id="appointmentTable" layoutX="18.0" layoutY="134.0" prefHeight="129.0" prefWidth="643.0">
+        <columns>
+          <TableColumn fx:id="idColumn" prefWidth="37.33334159851074" text="ID" />
+          <TableColumn fx:id="titleColumn" prefWidth="64.00000381469727" text="Title" />
+            <TableColumn fx:id="typeColumn" prefWidth="67.33334350585938" text="Type" />
+            <TableColumn fx:id="descriptionColumn" prefWidth="106.66664123535156" text="Description" />
+            <TableColumn fx:id="locationColumn" prefWidth="68.66668701171875" text="Location" />
+            <TableColumn fx:id="startColumn" prefWidth="110.0" text="Start Date &amp; Time" />
+            <TableColumn fx:id="endColumn" prefWidth="108.00003051757812" text="End Date &amp; Time" />
+            <TableColumn fx:id="customerColumn" text="Customer ID" />
+        </columns>
+      </TableView>
+      <TableView fx:id="reportTable" layoutX="18.0" layoutY="269.0" prefHeight="200.0" prefWidth="374.0">
+        <columns>
+          <TableColumn fx:id="monthColumn" prefWidth="124.66666221618652" text="Appointment Month" />
+          <TableColumn fx:id="reportTypeColumn" prefWidth="124.66667175292969" text="Appointment Type" />
+            <TableColumn fx:id="totalAppColumn" prefWidth="124.66667175292969" text="Total Appointments" />
+        </columns>
+      </TableView>
+      <TableView fx:id="divisionTable" layoutX="441.0" layoutY="269.0" prefHeight="200.0" prefWidth="220.0">
+        <columns>
+          <TableColumn fx:id="divisionNameColumn" prefWidth="106.66665649414062" text="Division Name" />
+          <TableColumn fx:id="totalCustomersColumn" prefWidth="112.0" text="Total Customers" />
+        </columns>
+      </TableView>
+      <Button fx:id="back" layoutX="562.0" layoutY="11.0" mnemonicParsing="false" onAction="#backButton" text="Back" />
+      <Button layoutX="609.0" layoutY="11.0" mnemonicParsing="false" text="Logout" />
+      <ComboBox fx:id="contactCB" layoutX="44.0" layoutY="95.0" onAction="#onContactSelected" prefHeight="25.0" prefWidth="211.0" promptText="Click to View Report" />
+      <Label layoutX="40.0" layoutY="72.0" text="Select Contact" />
+   </children>
+</AnchorPane>
